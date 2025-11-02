@@ -9,8 +9,8 @@ import { useState, useEffect } from 'react';
 // 🔧 CONFIGURAÇÃO - MUDE AQUI!
 // ============================================
 const CONFIG = {
-  NIVUSPAY_PUBLIC_KEY: 'sua_chave_publica_aqui',
-  NIVUSPAY_SECRET_KEY: 'sua_chave_secreta_aqui',
+  NIVUSPAY_PUBLIC_KEY: 'pk_1HwDRFwxUjHnuwTlNs1UG16NQxa5-91IpWFiOFGwbjTo6pNI',
+  NIVUSPAY_SECRET_KEY: 'sk_PjJ2OvRsFfCypykwBw5wJ3TPqIkODmRCS_NF-HVO7t96sZw8',
   NIVUSPAY_API: 'https://api.nivuspay.com/v1'
 };
 
